@@ -91,11 +91,11 @@ Customers segmented into 4 behavioral clusters
 PCA used for 2D visualization of clusters
 
 ## 📊 Cluster Personas Identified
-Cluster	     Persona	          Characteristics
-Cluster 0	Luxury Buyers	        High income, high spending, strong campaign response
-Cluster 1	Family Shoppers	      Medium income, large family size, high food spending
-Cluster 2	Budget Customers	    Low income, low spending, low campaign engagement
-Cluster 3	Young Spenders        Younger customers with moderate spending patterns
+
+Cluster 0->	Luxury Buyers=>	        High income, high spending, strong campaign response.
+Cluster 1->	Family Shoppers=>	      Medium income, large family size, high food spending.
+Cluster 2->	Budget Customers=>	    Low income, low spending, low campaign engagement.
+Cluster 3->	Young Spenders=>        Younger customers with moderate spending patterns.
 
 
 ## 🔬 Clustering Robustness Evaluation
