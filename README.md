@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 What This Project Does (For Everyone)
+## 🌍 What This Project Does:-
 
 Every business has different types of customers — some spend big, some hunt for deals, some buy in bulk for their families. This project uses machine learning to automatically group customers based on how they actually behave, not just how we assume they behave.
 
